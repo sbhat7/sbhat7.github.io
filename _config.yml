@@ -10,22 +10,22 @@
 
 # This file is a part of the HSHSL workshop Using GitHub to Manage Your Scholarly Work.
 
-name: 
-email: 
-job_title: 
-degrees: [] # type your degrees inside the square brackets in quotes and separated by a comma, ie: ["BA","MS","Ph.D"]
-institution_name: 
-institution_URL: 
-department_name: 
+name: Shambhu Bhat  
+email: sbhat7jhu@gmail.com
+job_title: Github training Sept 2015
+degrees: ["Bsc", "MSc", "PhD"] # type your degrees inside the square brackets in quotes and separated by a comma, ie: ["BA","MS","Ph.D"]
+institution_name: University of Maryland Baltimore
+institution_URL: umaryland.edu
+department_name: Psychiatry
 department_URL: 
-github_username: 
+github_username: sbhat7
 twitter_username: 
 linkedin_URL: 
-selfie_URL: 
+selfie_URL: http://placehold.it/350x350
 
 social:
-  have_twitter: true
-  have_linkedin: true
+  have_twitter: false
+  have_linkedin: false
 
 # Technical configuration
 markdown: kramdown
